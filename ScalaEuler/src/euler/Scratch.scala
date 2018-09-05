@@ -1,0 +1,4 @@
+package euler
+
+object Scratch {
+}
